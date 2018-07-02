@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "549096903873",
+    "firebase_url": "https://measuredistance.firebaseio.com",
+    "project_id": "measuredistance",
+    "storage_bucket": "measuredistance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549096903873:android:46cc7e7c6a829597",
+        "android_client_info": {
+          "package_name": "com.example.kadyan.measuredistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549096903873-3e77bv56rb3i49tjpo77ca8u3l342gju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kadyan.measuredistance",
+            "certificate_hash": "cdf185ed2478d177590bf72675942f664d343196"
+          }
+        },
+        {
+          "client_id": "549096903873-eqos4os1ilnv620h66f4punpqudl1nkh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "549096903873-eqos4os1ilnv620h66f4punpqudl1nkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzw5ayfMqaXw8B8p6edMyqJrhglRsIp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549096903873-eqos4os1ilnv620h66f4punpqudl1nkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
